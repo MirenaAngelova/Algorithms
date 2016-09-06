@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Exercises\Advanced Graph Algorithms Demos\03.Prims Algorithm With Adjacency Matrix\bin\Debug\03.Prims Algorithm With Adjacency Matrix.exe.config
+D:\SOFTUNI\Algorithms\Exercises\Advanced Graph Algorithms Demos\03.Prims Algorithm With Adjacency Matrix\bin\Debug\03.Prims Algorithm With Adjacency Matrix.exe
+D:\SOFTUNI\Algorithms\Exercises\Advanced Graph Algorithms Demos\03.Prims Algorithm With Adjacency Matrix\bin\Debug\03.Prims Algorithm With Adjacency Matrix.pdb
+D:\SOFTUNI\Algorithms\Exercises\Advanced Graph Algorithms Demos\03.Prims Algorithm With Adjacency Matrix\obj\Debug\03.Prims Algorithm With Adjacency Matrix.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Exercises\Advanced Graph Algorithms Demos\03.Prims Algorithm With Adjacency Matrix\obj\Debug\03.Prims Algorithm With Adjacency Matrix.exe
+D:\SOFTUNI\Algorithms\Exercises\Advanced Graph Algorithms Demos\03.Prims Algorithm With Adjacency Matrix\obj\Debug\03.Prims Algorithm With Adjacency Matrix.pdb

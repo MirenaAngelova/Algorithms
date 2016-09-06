@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Exercises\Advanced Graph Algorithms Demos\05. Dijkstra With Priority Queue\bin\Debug\_05.Dijkstra_With_Priority_Queue.exe.config
+D:\SOFTUNI\Algorithms\Exercises\Advanced Graph Algorithms Demos\05. Dijkstra With Priority Queue\bin\Debug\_05.Dijkstra_With_Priority_Queue.exe
+D:\SOFTUNI\Algorithms\Exercises\Advanced Graph Algorithms Demos\05. Dijkstra With Priority Queue\bin\Debug\_05.Dijkstra_With_Priority_Queue.pdb
+D:\SOFTUNI\Algorithms\Exercises\Advanced Graph Algorithms Demos\05. Dijkstra With Priority Queue\obj\Debug\05. Dijkstra With Priority Queue.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Exercises\Advanced Graph Algorithms Demos\05. Dijkstra With Priority Queue\obj\Debug\_05.Dijkstra_With_Priority_Queue.exe
+D:\SOFTUNI\Algorithms\Exercises\Advanced Graph Algorithms Demos\05. Dijkstra With Priority Queue\obj\Debug\_05.Dijkstra_With_Priority_Queue.pdb

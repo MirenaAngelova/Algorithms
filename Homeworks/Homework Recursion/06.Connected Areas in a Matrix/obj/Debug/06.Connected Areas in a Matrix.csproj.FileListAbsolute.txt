@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Homeworks\Homework Recursion\06.Connected Areas in a Matrix\bin\Debug\06.Connected Areas in a Matrix.exe.config
+D:\SOFTUNI\Algorithms\Homeworks\Homework Recursion\06.Connected Areas in a Matrix\bin\Debug\06.Connected Areas in a Matrix.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Recursion\06.Connected Areas in a Matrix\bin\Debug\06.Connected Areas in a Matrix.pdb
+D:\SOFTUNI\Algorithms\Homeworks\Homework Recursion\06.Connected Areas in a Matrix\obj\Debug\06.Connected Areas in a Matrix.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Homeworks\Homework Recursion\06.Connected Areas in a Matrix\obj\Debug\06.Connected Areas in a Matrix.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Recursion\06.Connected Areas in a Matrix\obj\Debug\06.Connected Areas in a Matrix.pdb

@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Homeworks\Homework Combinatorial Algorithms\06.Snakes\bin\Debug\06.Snakes.exe.config
+D:\SOFTUNI\Algorithms\Homeworks\Homework Combinatorial Algorithms\06.Snakes\bin\Debug\06.Snakes.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Combinatorial Algorithms\06.Snakes\bin\Debug\06.Snakes.pdb
+D:\SOFTUNI\Algorithms\Homeworks\Homework Combinatorial Algorithms\06.Snakes\obj\Debug\06.Snakes.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Homeworks\Homework Combinatorial Algorithms\06.Snakes\obj\Debug\06.Snakes.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Combinatorial Algorithms\06.Snakes\obj\Debug\06.Snakes.pdb

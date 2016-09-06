@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Exercises\Recursion Demos\02.Factorial Performance\bin\Debug\02.Factorial Performance.exe.config
+D:\SOFTUNI\Algorithms\Exercises\Recursion Demos\02.Factorial Performance\bin\Debug\02.Factorial Performance.exe
+D:\SOFTUNI\Algorithms\Exercises\Recursion Demos\02.Factorial Performance\bin\Debug\02.Factorial Performance.pdb
+D:\SOFTUNI\Algorithms\Exercises\Recursion Demos\02.Factorial Performance\obj\Debug\02.Factorial Performance.exe
+D:\SOFTUNI\Algorithms\Exercises\Recursion Demos\02.Factorial Performance\obj\Debug\02.Factorial Performance.pdb
+D:\SOFTUNI\Algorithms\Exercises\Recursion Demos\02.Factorial Performance\obj\Debug\02.Factorial Performance.csprojResolveAssemblyReference.cache

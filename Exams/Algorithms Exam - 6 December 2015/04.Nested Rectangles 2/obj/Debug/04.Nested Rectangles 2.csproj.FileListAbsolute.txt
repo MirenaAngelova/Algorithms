@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Exams\Algorithms Exam - 6 December 2015\04.Nested Rectangles 2\bin\Debug\04.Nested Rectangles 2.exe.config
+D:\SOFTUNI\Algorithms\Exams\Algorithms Exam - 6 December 2015\04.Nested Rectangles 2\bin\Debug\04.Nested Rectangles 2.exe
+D:\SOFTUNI\Algorithms\Exams\Algorithms Exam - 6 December 2015\04.Nested Rectangles 2\bin\Debug\04.Nested Rectangles 2.pdb
+D:\SOFTUNI\Algorithms\Exams\Algorithms Exam - 6 December 2015\04.Nested Rectangles 2\obj\Debug\04.Nested Rectangles 2.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Exams\Algorithms Exam - 6 December 2015\04.Nested Rectangles 2\obj\Debug\04.Nested Rectangles 2.exe
+D:\SOFTUNI\Algorithms\Exams\Algorithms Exam - 6 December 2015\04.Nested Rectangles 2\obj\Debug\04.Nested Rectangles 2.pdb

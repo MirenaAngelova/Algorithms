@@ -1,0 +1,1 @@
+D:\SOFTUNI\Algorithms\Exercises\Recursion Demos\03.Infinite Recursion\bin\Debug\03.Infinite Recursion.exe.config

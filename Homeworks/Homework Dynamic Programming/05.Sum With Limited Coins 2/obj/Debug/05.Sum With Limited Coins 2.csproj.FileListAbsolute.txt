@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Homeworks\Homework Dynamic Programming\05.Sum With Limited Coins 2\bin\Debug\05.Sum With Limited Coins 2.exe.config
+D:\SOFTUNI\Algorithms\Homeworks\Homework Dynamic Programming\05.Sum With Limited Coins 2\bin\Debug\05.Sum With Limited Coins 2.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Dynamic Programming\05.Sum With Limited Coins 2\bin\Debug\05.Sum With Limited Coins 2.pdb
+D:\SOFTUNI\Algorithms\Homeworks\Homework Dynamic Programming\05.Sum With Limited Coins 2\obj\Debug\05.Sum With Limited Coins 2.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Homeworks\Homework Dynamic Programming\05.Sum With Limited Coins 2\obj\Debug\05.Sum With Limited Coins 2.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Dynamic Programming\05.Sum With Limited Coins 2\obj\Debug\05.Sum With Limited Coins 2.pdb

@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Homeworks\Homework Greedy Algorithms\05.Egyptian Fractions\bin\Debug\05.Egyptian Fractions.exe.config
+D:\SOFTUNI\Algorithms\Homeworks\Homework Greedy Algorithms\05.Egyptian Fractions\bin\Debug\05.Egyptian Fractions.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Greedy Algorithms\05.Egyptian Fractions\bin\Debug\05.Egyptian Fractions.pdb
+D:\SOFTUNI\Algorithms\Homeworks\Homework Greedy Algorithms\05.Egyptian Fractions\obj\Debug\05.Egyptian Fractions.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Homeworks\Homework Greedy Algorithms\05.Egyptian Fractions\obj\Debug\05.Egyptian Fractions.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Greedy Algorithms\05.Egyptian Fractions\obj\Debug\05.Egyptian Fractions.pdb

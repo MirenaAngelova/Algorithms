@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Exercises\Lab Recursion and the 8 Queens Puzzle\07.Recursive Array Sum\bin\Debug\07.Recursive Array Sum.exe.config
+D:\SOFTUNI\Algorithms\Exercises\Lab Recursion and the 8 Queens Puzzle\07.Recursive Array Sum\bin\Debug\07.Recursive Array Sum.exe
+D:\SOFTUNI\Algorithms\Exercises\Lab Recursion and the 8 Queens Puzzle\07.Recursive Array Sum\bin\Debug\07.Recursive Array Sum.pdb
+D:\SOFTUNI\Algorithms\Exercises\Lab Recursion and the 8 Queens Puzzle\07.Recursive Array Sum\obj\Debug\07.Recursive Array Sum.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Exercises\Lab Recursion and the 8 Queens Puzzle\07.Recursive Array Sum\obj\Debug\07.Recursive Array Sum.exe
+D:\SOFTUNI\Algorithms\Exercises\Lab Recursion and the 8 Queens Puzzle\07.Recursive Array Sum\obj\Debug\07.Recursive Array Sum.pdb

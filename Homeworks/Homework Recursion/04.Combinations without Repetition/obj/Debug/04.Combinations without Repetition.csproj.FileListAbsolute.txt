@@ -1,0 +1,5 @@
+D:\SOFTUNI\Algorithms\Homeworks\Homework Recursion\04.Combinations without Repetition\bin\Debug\04.Combinations without Repetition.exe.config
+D:\SOFTUNI\Algorithms\Homeworks\Homework Recursion\04.Combinations without Repetition\bin\Debug\04.Combinations without Repetition.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Recursion\04.Combinations without Repetition\bin\Debug\04.Combinations without Repetition.pdb
+D:\SOFTUNI\Algorithms\Homeworks\Homework Recursion\04.Combinations without Repetition\obj\Debug\04.Combinations without Repetition.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Recursion\04.Combinations without Repetition\obj\Debug\04.Combinations without Repetition.pdb

@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Kruskals Algorithm", "01.Kruskals Algorithm\01.Kruskals Algorithm.csproj", "{7E7455E9-4E91-4C9B-A0AD-905F7D5E50DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Prims Algorithms Priority Queue", "02.Prims Algorithms Priority Queue\02.Prims Algorithms Priority Queue.csproj", "{9B409988-55A9-4C37-A1DE-39142FB1D56B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Prims Algorithm With Adjacency Matrix", "03.Prims Algorithm With Adjacency Matrix\03.Prims Algorithm With Adjacency Matrix.csproj", "{694E1E68-09E2-4045-BF78-600CB2D2361C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Dijkstra Without Queue", "04.Dijkstra Without Queue\04.Dijkstra Without Queue.csproj", "{70DD279C-1F17-4206-B305-0D6667F06F47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Dijkstra With Priority Queue", "05. Dijkstra With Priority Queue\05. Dijkstra With Priority Queue.csproj", "{5A2C8E66-51C0-45FF-8886-36945E7DBD95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E7455E9-4E91-4C9B-A0AD-905F7D5E50DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E7455E9-4E91-4C9B-A0AD-905F7D5E50DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E7455E9-4E91-4C9B-A0AD-905F7D5E50DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E7455E9-4E91-4C9B-A0AD-905F7D5E50DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B409988-55A9-4C37-A1DE-39142FB1D56B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B409988-55A9-4C37-A1DE-39142FB1D56B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B409988-55A9-4C37-A1DE-39142FB1D56B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B409988-55A9-4C37-A1DE-39142FB1D56B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{694E1E68-09E2-4045-BF78-600CB2D2361C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{694E1E68-09E2-4045-BF78-600CB2D2361C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{694E1E68-09E2-4045-BF78-600CB2D2361C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{694E1E68-09E2-4045-BF78-600CB2D2361C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70DD279C-1F17-4206-B305-0D6667F06F47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70DD279C-1F17-4206-B305-0D6667F06F47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70DD279C-1F17-4206-B305-0D6667F06F47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70DD279C-1F17-4206-B305-0D6667F06F47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A2C8E66-51C0-45FF-8886-36945E7DBD95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A2C8E66-51C0-45FF-8886-36945E7DBD95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A2C8E66-51C0-45FF-8886-36945E7DBD95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A2C8E66-51C0-45FF-8886-36945E7DBD95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

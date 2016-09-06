@@ -1,0 +1,5 @@
+D:\SOFTUNI\Algorithms\Exams\Algorithms Exam - 6 December 2015\04.NestedRectanglesGenerator\bin\Debug\04.NestedRectanglesGenerator.exe.config
+D:\SOFTUNI\Algorithms\Exams\Algorithms Exam - 6 December 2015\04.NestedRectanglesGenerator\bin\Debug\04.NestedRectanglesGenerator.exe
+D:\SOFTUNI\Algorithms\Exams\Algorithms Exam - 6 December 2015\04.NestedRectanglesGenerator\bin\Debug\04.NestedRectanglesGenerator.pdb
+D:\SOFTUNI\Algorithms\Exams\Algorithms Exam - 6 December 2015\04.NestedRectanglesGenerator\obj\Debug\04.NestedRectanglesGenerator.exe
+D:\SOFTUNI\Algorithms\Exams\Algorithms Exam - 6 December 2015\04.NestedRectanglesGenerator\obj\Debug\04.NestedRectanglesGenerator.pdb

@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2013\01.Frames\bin\Debug\01.Frames.exe.config
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2013\01.Frames\bin\Debug\01.Frames.exe
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2013\01.Frames\bin\Debug\01.Frames.pdb
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2013\01.Frames\obj\Debug\01.Frames.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2013\01.Frames\obj\Debug\01.Frames.exe
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2013\01.Frames\obj\Debug\01.Frames.pdb

@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Homeworks\Homework Problem Solving\01.Shortest Path in Matrix\bin\Debug\01.Shortest Path in Matrix.exe.config
+D:\SOFTUNI\Algorithms\Homeworks\Homework Problem Solving\01.Shortest Path in Matrix\bin\Debug\01.Shortest Path in Matrix.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Problem Solving\01.Shortest Path in Matrix\bin\Debug\01.Shortest Path in Matrix.pdb
+D:\SOFTUNI\Algorithms\Homeworks\Homework Problem Solving\01.Shortest Path in Matrix\obj\Debug\01.Shortest Path in Matrix.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Homeworks\Homework Problem Solving\01.Shortest Path in Matrix\obj\Debug\01.Shortest Path in Matrix.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Problem Solving\01.Shortest Path in Matrix\obj\Debug\01.Shortest Path in Matrix.pdb

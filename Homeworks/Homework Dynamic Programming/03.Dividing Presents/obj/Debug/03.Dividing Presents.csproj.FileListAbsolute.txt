@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Homeworks\Homework Dynamic Programming\03.Dividing Presents\bin\Debug\03.Dividing Presents.exe.config
+D:\SOFTUNI\Algorithms\Homeworks\Homework Dynamic Programming\03.Dividing Presents\bin\Debug\03.Dividing Presents.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Dynamic Programming\03.Dividing Presents\bin\Debug\03.Dividing Presents.pdb
+D:\SOFTUNI\Algorithms\Homeworks\Homework Dynamic Programming\03.Dividing Presents\obj\Debug\03.Dividing Presents.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Homeworks\Homework Dynamic Programming\03.Dividing Presents\obj\Debug\03.Dividing Presents.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Dynamic Programming\03.Dividing Presents\obj\Debug\03.Dividing Presents.pdb

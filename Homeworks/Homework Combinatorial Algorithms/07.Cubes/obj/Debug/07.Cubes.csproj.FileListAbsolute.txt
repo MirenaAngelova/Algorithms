@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Homeworks\Homework Combinatorial Algorithms\07.Cubes\bin\Debug\07.Cubes.exe.config
+D:\SOFTUNI\Algorithms\Homeworks\Homework Combinatorial Algorithms\07.Cubes\bin\Debug\07.Cubes.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Combinatorial Algorithms\07.Cubes\bin\Debug\07.Cubes.pdb
+D:\SOFTUNI\Algorithms\Homeworks\Homework Combinatorial Algorithms\07.Cubes\obj\Debug\07.Cubes.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Homeworks\Homework Combinatorial Algorithms\07.Cubes\obj\Debug\07.Cubes.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Combinatorial Algorithms\07.Cubes\obj\Debug\07.Cubes.pdb

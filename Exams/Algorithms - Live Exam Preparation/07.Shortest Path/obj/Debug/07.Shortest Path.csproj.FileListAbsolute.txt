@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Exams\Algorithms - Live Exam Preparation\07.Shortest Path\bin\Debug\07.Shortest Path.exe.config
+D:\SOFTUNI\Algorithms\Exams\Algorithms - Live Exam Preparation\07.Shortest Path\bin\Debug\07.Shortest Path.exe
+D:\SOFTUNI\Algorithms\Exams\Algorithms - Live Exam Preparation\07.Shortest Path\bin\Debug\07.Shortest Path.pdb
+D:\SOFTUNI\Algorithms\Exams\Algorithms - Live Exam Preparation\07.Shortest Path\obj\Debug\07.Shortest Path.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Exams\Algorithms - Live Exam Preparation\07.Shortest Path\obj\Debug\07.Shortest Path.exe
+D:\SOFTUNI\Algorithms\Exams\Algorithms - Live Exam Preparation\07.Shortest Path\obj\Debug\07.Shortest Path.pdb

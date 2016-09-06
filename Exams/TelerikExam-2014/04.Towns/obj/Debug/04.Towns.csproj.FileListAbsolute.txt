@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2014\04.Towns\bin\Debug\04.Towns.exe.config
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2014\04.Towns\bin\Debug\04.Towns.exe
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2014\04.Towns\bin\Debug\04.Towns.pdb
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2014\04.Towns\obj\Debug\04.Towns.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2014\04.Towns\obj\Debug\04.Towns.exe
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2014\04.Towns\obj\Debug\04.Towns.pdb

@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Homeworks\Homework Graph Algorithms\04.Salaries\bin\Debug\04.Salaries.exe.config
+D:\SOFTUNI\Algorithms\Homeworks\Homework Graph Algorithms\04.Salaries\bin\Debug\04.Salaries.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Graph Algorithms\04.Salaries\bin\Debug\04.Salaries.pdb
+D:\SOFTUNI\Algorithms\Homeworks\Homework Graph Algorithms\04.Salaries\obj\Debug\04.Salaries.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Homeworks\Homework Graph Algorithms\04.Salaries\obj\Debug\04.Salaries.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Graph Algorithms\04.Salaries\obj\Debug\04.Salaries.pdb

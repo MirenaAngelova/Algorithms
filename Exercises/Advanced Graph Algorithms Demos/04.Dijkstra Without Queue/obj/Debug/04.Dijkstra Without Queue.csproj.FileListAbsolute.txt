@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Exercises\Advanced Graph Algorithms Demos\04.Dijkstra Without Queue\bin\Debug\04.Dijkstra Without Queue.exe.config
+D:\SOFTUNI\Algorithms\Exercises\Advanced Graph Algorithms Demos\04.Dijkstra Without Queue\bin\Debug\04.Dijkstra Without Queue.exe
+D:\SOFTUNI\Algorithms\Exercises\Advanced Graph Algorithms Demos\04.Dijkstra Without Queue\bin\Debug\04.Dijkstra Without Queue.pdb
+D:\SOFTUNI\Algorithms\Exercises\Advanced Graph Algorithms Demos\04.Dijkstra Without Queue\obj\Debug\04.Dijkstra Without Queue.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Exercises\Advanced Graph Algorithms Demos\04.Dijkstra Without Queue\obj\Debug\04.Dijkstra Without Queue.exe
+D:\SOFTUNI\Algorithms\Exercises\Advanced Graph Algorithms Demos\04.Dijkstra Without Queue\obj\Debug\04.Dijkstra Without Queue.pdb

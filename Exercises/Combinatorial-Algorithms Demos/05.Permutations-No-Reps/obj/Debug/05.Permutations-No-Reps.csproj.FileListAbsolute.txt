@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Exercises\Combinatorial-Algorithms Demos\05.Permutations-No-Reps\bin\Debug\05.Permutations-No-Reps.exe.config
+D:\SOFTUNI\Algorithms\Exercises\Combinatorial-Algorithms Demos\05.Permutations-No-Reps\bin\Debug\05.Permutations-No-Reps.exe
+D:\SOFTUNI\Algorithms\Exercises\Combinatorial-Algorithms Demos\05.Permutations-No-Reps\bin\Debug\05.Permutations-No-Reps.pdb
+D:\SOFTUNI\Algorithms\Exercises\Combinatorial-Algorithms Demos\05.Permutations-No-Reps\obj\Debug\05.Permutations-No-Reps.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Exercises\Combinatorial-Algorithms Demos\05.Permutations-No-Reps\obj\Debug\05.Permutations-No-Reps.exe
+D:\SOFTUNI\Algorithms\Exercises\Combinatorial-Algorithms Demos\05.Permutations-No-Reps\obj\Debug\05.Permutations-No-Reps.pdb

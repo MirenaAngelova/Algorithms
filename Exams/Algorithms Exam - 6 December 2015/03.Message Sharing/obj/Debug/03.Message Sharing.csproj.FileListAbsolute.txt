@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Exams\Algorithms Exam - 6 December 2015\03.Message Sharing\bin\Debug\03.Message Sharing.exe.config
+D:\SOFTUNI\Algorithms\Exams\Algorithms Exam - 6 December 2015\03.Message Sharing\bin\Debug\03.Message Sharing.exe
+D:\SOFTUNI\Algorithms\Exams\Algorithms Exam - 6 December 2015\03.Message Sharing\bin\Debug\03.Message Sharing.pdb
+D:\SOFTUNI\Algorithms\Exams\Algorithms Exam - 6 December 2015\03.Message Sharing\obj\Debug\03.Message Sharing.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Exams\Algorithms Exam - 6 December 2015\03.Message Sharing\obj\Debug\03.Message Sharing.exe
+D:\SOFTUNI\Algorithms\Exams\Algorithms Exam - 6 December 2015\03.Message Sharing\obj\Debug\03.Message Sharing.pdb

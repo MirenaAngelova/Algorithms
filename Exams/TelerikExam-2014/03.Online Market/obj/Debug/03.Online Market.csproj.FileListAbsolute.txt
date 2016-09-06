@@ -1,0 +1,8 @@
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2014\03.Online Market\bin\Debug\03.Online Market.exe.config
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2014\03.Online Market\bin\Debug\03.Online Market.exe
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2014\03.Online Market\bin\Debug\03.Online Market.pdb
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2014\03.Online Market\bin\Debug\SoftUni.Wintellect.PowerCollections.dll
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2014\03.Online Market\bin\Debug\SoftUni.Wintellect.PowerCollections.xml
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2014\03.Online Market\obj\Debug\03.Online Market.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2014\03.Online Market\obj\Debug\03.Online Market.exe
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2014\03.Online Market\obj\Debug\03.Online Market.pdb

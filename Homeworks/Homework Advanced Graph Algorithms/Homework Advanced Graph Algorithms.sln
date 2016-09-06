@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Extend a Cable Network", "01.Extend a Cable Network\01.Extend a Cable Network.csproj", "{8590D310-3736-4A9B-A5C2-6554D32AA237}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Modified Kruskal Algorithm", "02.Modified Kruskal Algorithm\02.Modified Kruskal Algorithm.csproj", "{2788B03A-100E-48DC-BEAC-229BDAE0DAE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Most Reliable Path", "03.Most Reliable Path\03.Most Reliable Path.csproj", "{0F2C6216-09E1-4690-8211-7328952DBCB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Shortest Paths with Negative Edges", "05.Shortest Paths with Negative Edges\05.Shortest Paths with Negative Edges.csproj", "{AA20AB88-B157-4E58-A960-C6095468CEDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Shortest Paths Between All Nodes", "04.Shortest Paths Between All Nodes\04.Shortest Paths Between All Nodes.csproj", "{3D0314AA-4A1F-4994-A017-3A4E7EEE6945}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Maximum Tasks Assignment", "06.Maximum Tasks Assignment\06.Maximum Tasks Assignment.csproj", "{6CC832D9-5D5D-479E-8E4E-312C57709C64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Find the Bi-Connected Components in a Graph", "07.Find the Bi-Connected Components in a Graph\07.Find the Bi-Connected Components in a Graph.csproj", "{4163E1A1-149E-481B-9DDE-3DCB2C736971}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.Supplement Graph to Make It Strongly-Connected", "08.Supplement Graph to Make It Strongly-Connected\08.Supplement Graph to Make It Strongly-Connected.csproj", "{AA57716C-1841-42F2-A765-EE2AD2324FCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8590D310-3736-4A9B-A5C2-6554D32AA237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8590D310-3736-4A9B-A5C2-6554D32AA237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8590D310-3736-4A9B-A5C2-6554D32AA237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8590D310-3736-4A9B-A5C2-6554D32AA237}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2788B03A-100E-48DC-BEAC-229BDAE0DAE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2788B03A-100E-48DC-BEAC-229BDAE0DAE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2788B03A-100E-48DC-BEAC-229BDAE0DAE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2788B03A-100E-48DC-BEAC-229BDAE0DAE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F2C6216-09E1-4690-8211-7328952DBCB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F2C6216-09E1-4690-8211-7328952DBCB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F2C6216-09E1-4690-8211-7328952DBCB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F2C6216-09E1-4690-8211-7328952DBCB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA20AB88-B157-4E58-A960-C6095468CEDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA20AB88-B157-4E58-A960-C6095468CEDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA20AB88-B157-4E58-A960-C6095468CEDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA20AB88-B157-4E58-A960-C6095468CEDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D0314AA-4A1F-4994-A017-3A4E7EEE6945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D0314AA-4A1F-4994-A017-3A4E7EEE6945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D0314AA-4A1F-4994-A017-3A4E7EEE6945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D0314AA-4A1F-4994-A017-3A4E7EEE6945}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CC832D9-5D5D-479E-8E4E-312C57709C64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CC832D9-5D5D-479E-8E4E-312C57709C64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CC832D9-5D5D-479E-8E4E-312C57709C64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CC832D9-5D5D-479E-8E4E-312C57709C64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4163E1A1-149E-481B-9DDE-3DCB2C736971}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4163E1A1-149E-481B-9DDE-3DCB2C736971}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4163E1A1-149E-481B-9DDE-3DCB2C736971}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4163E1A1-149E-481B-9DDE-3DCB2C736971}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA57716C-1841-42F2-A765-EE2AD2324FCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA57716C-1841-42F2-A765-EE2AD2324FCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA57716C-1841-42F2-A765-EE2AD2324FCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA57716C-1841-42F2-A765-EE2AD2324FCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

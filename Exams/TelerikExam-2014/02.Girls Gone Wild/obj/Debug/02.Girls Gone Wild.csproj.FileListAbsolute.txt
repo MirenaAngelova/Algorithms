@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2014\02.Girls Gone Wild\bin\Debug\02.Girls Gone Wild.exe.config
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2014\02.Girls Gone Wild\bin\Debug\02.Girls Gone Wild.exe
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2014\02.Girls Gone Wild\bin\Debug\02.Girls Gone Wild.pdb
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2014\02.Girls Gone Wild\obj\Debug\02.Girls Gone Wild.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2014\02.Girls Gone Wild\obj\Debug\02.Girls Gone Wild.exe
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2014\02.Girls Gone Wild\obj\Debug\02.Girls Gone Wild.pdb

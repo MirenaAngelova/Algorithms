@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Homeworks\Homework Dynamic Programming\08.Symbol Multiplication\bin\Debug\08.Symbol Multiplication.exe.config
+D:\SOFTUNI\Algorithms\Homeworks\Homework Dynamic Programming\08.Symbol Multiplication\bin\Debug\08.Symbol Multiplication.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Dynamic Programming\08.Symbol Multiplication\bin\Debug\08.Symbol Multiplication.pdb
+D:\SOFTUNI\Algorithms\Homeworks\Homework Dynamic Programming\08.Symbol Multiplication\obj\Debug\08.Symbol Multiplication.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Homeworks\Homework Dynamic Programming\08.Symbol Multiplication\obj\Debug\08.Symbol Multiplication.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Dynamic Programming\08.Symbol Multiplication\obj\Debug\08.Symbol Multiplication.pdb

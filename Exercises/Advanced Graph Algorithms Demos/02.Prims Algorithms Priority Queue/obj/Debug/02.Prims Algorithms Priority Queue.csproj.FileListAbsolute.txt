@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Exercises\Advanced Graph Algorithms Demos\02.Prims Algorithms Priority Queue\bin\Debug\02.Prims Algorithms Priority Queue.exe.config
+D:\SOFTUNI\Algorithms\Exercises\Advanced Graph Algorithms Demos\02.Prims Algorithms Priority Queue\bin\Debug\02.Prims Algorithms Priority Queue.exe
+D:\SOFTUNI\Algorithms\Exercises\Advanced Graph Algorithms Demos\02.Prims Algorithms Priority Queue\bin\Debug\02.Prims Algorithms Priority Queue.pdb
+D:\SOFTUNI\Algorithms\Exercises\Advanced Graph Algorithms Demos\02.Prims Algorithms Priority Queue\obj\Debug\02.Prims Algorithms Priority Queue.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Exercises\Advanced Graph Algorithms Demos\02.Prims Algorithms Priority Queue\obj\Debug\02.Prims Algorithms Priority Queue.exe
+D:\SOFTUNI\Algorithms\Exercises\Advanced Graph Algorithms Demos\02.Prims Algorithms Priority Queue\obj\Debug\02.Prims Algorithms Priority Queue.pdb

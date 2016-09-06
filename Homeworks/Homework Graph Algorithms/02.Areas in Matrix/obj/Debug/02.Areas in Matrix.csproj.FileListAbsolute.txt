@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Homeworks\Homework Graph Algorithms\02.Areas in Matrix\bin\Debug\02.Areas in Matrix.exe.config
+D:\SOFTUNI\Algorithms\Homeworks\Homework Graph Algorithms\02.Areas in Matrix\bin\Debug\02.Areas in Matrix.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Graph Algorithms\02.Areas in Matrix\bin\Debug\02.Areas in Matrix.pdb
+D:\SOFTUNI\Algorithms\Homeworks\Homework Graph Algorithms\02.Areas in Matrix\obj\Debug\02.Areas in Matrix.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Homeworks\Homework Graph Algorithms\02.Areas in Matrix\obj\Debug\02.Areas in Matrix.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Graph Algorithms\02.Areas in Matrix\obj\Debug\02.Areas in Matrix.pdb

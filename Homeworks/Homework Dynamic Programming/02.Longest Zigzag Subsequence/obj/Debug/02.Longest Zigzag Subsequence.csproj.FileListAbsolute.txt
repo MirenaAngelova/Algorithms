@@ -1,0 +1,5 @@
+D:\SOFTUNI\Algorithms\Homeworks\Homework Dynamic Programming\02.Longest Zigzag Subsequence\bin\Debug\02.Longest Zigzag Subsequence.exe.config
+D:\SOFTUNI\Algorithms\Homeworks\Homework Dynamic Programming\02.Longest Zigzag Subsequence\bin\Debug\02.Longest Zigzag Subsequence.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Dynamic Programming\02.Longest Zigzag Subsequence\bin\Debug\02.Longest Zigzag Subsequence.pdb
+D:\SOFTUNI\Algorithms\Homeworks\Homework Dynamic Programming\02.Longest Zigzag Subsequence\obj\Debug\02.Longest Zigzag Subsequence.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Dynamic Programming\02.Longest Zigzag Subsequence\obj\Debug\02.Longest Zigzag Subsequence.pdb

@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2014\05.Sorting\bin\Debug\05.Sorting.exe.config
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2014\05.Sorting\bin\Debug\05.Sorting.exe
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2014\05.Sorting\bin\Debug\05.Sorting.pdb
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2014\05.Sorting\obj\Debug\05.Sorting.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2014\05.Sorting\obj\Debug\05.Sorting.exe
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2014\05.Sorting\obj\Debug\05.Sorting.pdb

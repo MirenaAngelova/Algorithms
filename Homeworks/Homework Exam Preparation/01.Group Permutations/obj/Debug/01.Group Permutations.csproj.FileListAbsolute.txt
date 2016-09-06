@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Homeworks\Homework Exam Preparation\01.Group Permutations\bin\Debug\01.Group Permutations.exe.config
+D:\SOFTUNI\Algorithms\Homeworks\Homework Exam Preparation\01.Group Permutations\bin\Debug\01.Group Permutations.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Exam Preparation\01.Group Permutations\bin\Debug\01.Group Permutations.pdb
+D:\SOFTUNI\Algorithms\Homeworks\Homework Exam Preparation\01.Group Permutations\obj\Debug\01.Group Permutations.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Homeworks\Homework Exam Preparation\01.Group Permutations\obj\Debug\01.Group Permutations.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Exam Preparation\01.Group Permutations\obj\Debug\01.Group Permutations.pdb

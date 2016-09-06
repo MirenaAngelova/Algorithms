@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Homeworks\Homework Recursion\02.Nested Loops To Recursion\bin\Debug\02.Nested Loops To Recursion.exe.config
+D:\SOFTUNI\Algorithms\Homeworks\Homework Recursion\02.Nested Loops To Recursion\bin\Debug\02.Nested Loops To Recursion.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Recursion\02.Nested Loops To Recursion\bin\Debug\02.Nested Loops To Recursion.pdb
+D:\SOFTUNI\Algorithms\Homeworks\Homework Recursion\02.Nested Loops To Recursion\obj\Debug\02.Nested Loops To Recursion.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Homeworks\Homework Recursion\02.Nested Loops To Recursion\obj\Debug\02.Nested Loops To Recursion.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Recursion\02.Nested Loops To Recursion\obj\Debug\02.Nested Loops To Recursion.pdb

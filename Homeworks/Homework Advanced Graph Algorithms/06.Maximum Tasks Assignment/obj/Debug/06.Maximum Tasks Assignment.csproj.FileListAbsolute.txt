@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Homeworks\Homework Advanced Graph Algorithms\06.Maximum Tasks Assignment\bin\Debug\06.Maximum Tasks Assignment.exe.config
+D:\SOFTUNI\Algorithms\Homeworks\Homework Advanced Graph Algorithms\06.Maximum Tasks Assignment\bin\Debug\06.Maximum Tasks Assignment.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Advanced Graph Algorithms\06.Maximum Tasks Assignment\bin\Debug\06.Maximum Tasks Assignment.pdb
+D:\SOFTUNI\Algorithms\Homeworks\Homework Advanced Graph Algorithms\06.Maximum Tasks Assignment\obj\Debug\06.Maximum Tasks Assignment.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Homeworks\Homework Advanced Graph Algorithms\06.Maximum Tasks Assignment\obj\Debug\06.Maximum Tasks Assignment.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Advanced Graph Algorithms\06.Maximum Tasks Assignment\obj\Debug\06.Maximum Tasks Assignment.pdb

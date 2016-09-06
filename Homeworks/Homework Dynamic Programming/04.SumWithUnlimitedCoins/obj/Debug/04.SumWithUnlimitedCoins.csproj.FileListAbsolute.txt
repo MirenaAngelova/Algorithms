@@ -1,0 +1,1 @@
+D:\SOFTUNI\Algorithms\Homeworks\Homework Dynamic Programming\04.SumWithUnlimitedCoins\bin\Debug\04.SumWithUnlimitedCoins.exe.config

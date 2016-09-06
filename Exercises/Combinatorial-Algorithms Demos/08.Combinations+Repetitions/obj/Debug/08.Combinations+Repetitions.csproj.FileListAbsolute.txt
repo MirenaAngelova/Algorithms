@@ -1,0 +1,5 @@
+D:\SOFTUNI\Algorithms\Exercises\Combinatorial-Algorithms Demos\08.Combinations+Repetitions\bin\Debug\08.Combinations+Repetitions.exe.config
+D:\SOFTUNI\Algorithms\Exercises\Combinatorial-Algorithms Demos\08.Combinations+Repetitions\bin\Debug\08.Combinations+Repetitions.exe
+D:\SOFTUNI\Algorithms\Exercises\Combinatorial-Algorithms Demos\08.Combinations+Repetitions\bin\Debug\08.Combinations+Repetitions.pdb
+D:\SOFTUNI\Algorithms\Exercises\Combinatorial-Algorithms Demos\08.Combinations+Repetitions\obj\Debug\08.Combinations+Repetitions.exe
+D:\SOFTUNI\Algorithms\Exercises\Combinatorial-Algorithms Demos\08.Combinations+Repetitions\obj\Debug\08.Combinations+Repetitions.pdb

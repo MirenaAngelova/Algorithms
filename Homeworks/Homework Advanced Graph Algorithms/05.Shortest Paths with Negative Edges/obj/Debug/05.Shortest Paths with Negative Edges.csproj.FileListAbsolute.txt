@@ -1,0 +1,8 @@
+D:\SOFTUNI\Algorithms\Homeworks\Homework Advanced Graph Algorithms\05.Shortest Paths with Negative Edges\bin\Debug\05.Shortest Paths with Negative Edges.exe.config
+D:\SOFTUNI\Algorithms\Homeworks\Homework Advanced Graph Algorithms\05.Shortest Paths with Negative Edges\bin\Debug\05.Shortest Paths with Negative Edges.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Advanced Graph Algorithms\05.Shortest Paths with Negative Edges\bin\Debug\05.Shortest Paths with Negative Edges.pdb
+D:\SOFTUNI\Algorithms\Homeworks\Homework Advanced Graph Algorithms\05.Shortest Paths with Negative Edges\bin\Debug\01.Extend a Cable Network.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Advanced Graph Algorithms\05.Shortest Paths with Negative Edges\bin\Debug\01.Extend a Cable Network.pdb
+D:\SOFTUNI\Algorithms\Homeworks\Homework Advanced Graph Algorithms\05.Shortest Paths with Negative Edges\obj\Debug\05.Shortest Paths with Negative Edges.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Homeworks\Homework Advanced Graph Algorithms\05.Shortest Paths with Negative Edges\obj\Debug\05.Shortest Paths with Negative Edges.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Advanced Graph Algorithms\05.Shortest Paths with Negative Edges\obj\Debug\05.Shortest Paths with Negative Edges.pdb

@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2013\04.Recover Message\bin\Debug\04.Recover Message.exe.config
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2013\04.Recover Message\bin\Debug\04.Recover Message.exe
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2013\04.Recover Message\bin\Debug\04.Recover Message.pdb
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2013\04.Recover Message\obj\Debug\04.Recover Message.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2013\04.Recover Message\obj\Debug\04.Recover Message.exe
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2013\04.Recover Message\obj\Debug\04.Recover Message.pdb

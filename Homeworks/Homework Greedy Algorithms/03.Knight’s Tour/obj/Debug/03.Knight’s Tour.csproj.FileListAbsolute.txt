@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Homeworks\Homework Greedy Algorithms\03.Knight’s Tour\bin\Debug\03.Knight’s Tour.exe.config
+D:\SOFTUNI\Algorithms\Homeworks\Homework Greedy Algorithms\03.Knight’s Tour\bin\Debug\03.Knight’s Tour.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Greedy Algorithms\03.Knight’s Tour\bin\Debug\03.Knight’s Tour.pdb
+D:\SOFTUNI\Algorithms\Homeworks\Homework Greedy Algorithms\03.Knight’s Tour\obj\Debug\03.Knight’s Tour.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Homeworks\Homework Greedy Algorithms\03.Knight’s Tour\obj\Debug\03.Knight’s Tour.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Greedy Algorithms\03.Knight’s Tour\obj\Debug\03.Knight’s Tour.pdb

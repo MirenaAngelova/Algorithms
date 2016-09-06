@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Homeworks\Homework Recursion\07.Reverse Array\bin\Debug\07.Reverse Array.exe.config
+D:\SOFTUNI\Algorithms\Homeworks\Homework Recursion\07.Reverse Array\bin\Debug\07.Reverse Array.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Recursion\07.Reverse Array\bin\Debug\07.Reverse Array.pdb
+D:\SOFTUNI\Algorithms\Homeworks\Homework Recursion\07.Reverse Array\obj\Debug\07.Reverse Array.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Homeworks\Homework Recursion\07.Reverse Array\obj\Debug\07.Reverse Array.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Recursion\07.Reverse Array\obj\Debug\07.Reverse Array.pdb

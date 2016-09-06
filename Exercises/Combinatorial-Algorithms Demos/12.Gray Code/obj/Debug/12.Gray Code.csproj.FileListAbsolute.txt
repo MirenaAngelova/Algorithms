@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Exercises\Combinatorial-Algorithms Demos\12.Gray Code\bin\Debug\12.Gray Code.exe.config
+D:\SOFTUNI\Algorithms\Exercises\Combinatorial-Algorithms Demos\12.Gray Code\bin\Debug\12.Gray Code.exe
+D:\SOFTUNI\Algorithms\Exercises\Combinatorial-Algorithms Demos\12.Gray Code\bin\Debug\12.Gray Code.pdb
+D:\SOFTUNI\Algorithms\Exercises\Combinatorial-Algorithms Demos\12.Gray Code\obj\Debug\12.Gray Code.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Exercises\Combinatorial-Algorithms Demos\12.Gray Code\obj\Debug\12.Gray Code.exe
+D:\SOFTUNI\Algorithms\Exercises\Combinatorial-Algorithms Demos\12.Gray Code\obj\Debug\12.Gray Code.pdb

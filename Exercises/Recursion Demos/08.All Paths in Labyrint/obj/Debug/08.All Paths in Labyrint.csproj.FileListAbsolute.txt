@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Exercises\Recursion Demos\08.All Paths in Labyrint\bin\Debug\08.All Paths in Labyrint.exe.config
+D:\SOFTUNI\Algorithms\Exercises\Recursion Demos\08.All Paths in Labyrint\bin\Debug\08.All Paths in Labyrint.exe
+D:\SOFTUNI\Algorithms\Exercises\Recursion Demos\08.All Paths in Labyrint\bin\Debug\08.All Paths in Labyrint.pdb
+D:\SOFTUNI\Algorithms\Exercises\Recursion Demos\08.All Paths in Labyrint\obj\Debug\08.All Paths in Labyrint.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Exercises\Recursion Demos\08.All Paths in Labyrint\obj\Debug\08.All Paths in Labyrint.exe
+D:\SOFTUNI\Algorithms\Exercises\Recursion Demos\08.All Paths in Labyrint\obj\Debug\08.All Paths in Labyrint.pdb

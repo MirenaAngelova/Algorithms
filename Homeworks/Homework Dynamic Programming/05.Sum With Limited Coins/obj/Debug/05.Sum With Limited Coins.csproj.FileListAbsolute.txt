@@ -1,0 +1,5 @@
+D:\SOFTUNI\Algorithms\Homeworks\Homework Dynamic Programming\05.Sum With Limited Coins\bin\Debug\05.Sum With Limited Coins.exe.config
+D:\SOFTUNI\Algorithms\Homeworks\Homework Dynamic Programming\05.Sum With Limited Coins\bin\Debug\05.Sum With Limited Coins.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Dynamic Programming\05.Sum With Limited Coins\bin\Debug\05.Sum With Limited Coins.pdb
+D:\SOFTUNI\Algorithms\Homeworks\Homework Dynamic Programming\05.Sum With Limited Coins\obj\Debug\05.Sum With Limited Coins.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Dynamic Programming\05.Sum With Limited Coins\obj\Debug\05.Sum With Limited Coins.pdb

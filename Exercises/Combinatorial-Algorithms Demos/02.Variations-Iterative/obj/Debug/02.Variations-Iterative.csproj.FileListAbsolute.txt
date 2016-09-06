@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Exercises\Combinatorial-Algorithms Demos\02.Variations-Iterative\bin\Debug\02.Variations-Iterative.exe.config
+D:\SOFTUNI\Algorithms\Exercises\Combinatorial-Algorithms Demos\02.Variations-Iterative\bin\Debug\02.Variations-Iterative.exe
+D:\SOFTUNI\Algorithms\Exercises\Combinatorial-Algorithms Demos\02.Variations-Iterative\bin\Debug\02.Variations-Iterative.pdb
+D:\SOFTUNI\Algorithms\Exercises\Combinatorial-Algorithms Demos\02.Variations-Iterative\obj\Debug\02.Variations-Iterative.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Exercises\Combinatorial-Algorithms Demos\02.Variations-Iterative\obj\Debug\02.Variations-Iterative.exe
+D:\SOFTUNI\Algorithms\Exercises\Combinatorial-Algorithms Demos\02.Variations-Iterative\obj\Debug\02.Variations-Iterative.pdb

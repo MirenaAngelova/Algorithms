@@ -1,0 +1,5 @@
+D:\SOFTUNI\Algorithms\Exercises\Recursion Demos\00.Call Stack\bin\Debug\00.Call Stack.exe.config
+D:\SOFTUNI\Algorithms\Exercises\Recursion Demos\00.Call Stack\bin\Debug\00.Call Stack.exe
+D:\SOFTUNI\Algorithms\Exercises\Recursion Demos\00.Call Stack\bin\Debug\00.Call Stack.pdb
+D:\SOFTUNI\Algorithms\Exercises\Recursion Demos\00.Call Stack\obj\Debug\00.Call Stack.exe
+D:\SOFTUNI\Algorithms\Exercises\Recursion Demos\00.Call Stack\obj\Debug\00.Call Stack.pdb

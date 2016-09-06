@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Homeworks\Homework Greedy Algorithms\04.Best Lectures Schedule\bin\Debug\04.Best Lectures Schedule.exe.config
+D:\SOFTUNI\Algorithms\Homeworks\Homework Greedy Algorithms\04.Best Lectures Schedule\bin\Debug\04.Best Lectures Schedule.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Greedy Algorithms\04.Best Lectures Schedule\bin\Debug\04.Best Lectures Schedule.pdb
+D:\SOFTUNI\Algorithms\Homeworks\Homework Greedy Algorithms\04.Best Lectures Schedule\obj\Debug\04.Best Lectures Schedule.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Homeworks\Homework Greedy Algorithms\04.Best Lectures Schedule\obj\Debug\04.Best Lectures Schedule.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Greedy Algorithms\04.Best Lectures Schedule\obj\Debug\04.Best Lectures Schedule.pdb

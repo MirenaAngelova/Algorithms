@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Exercises\Advanced Graph Algorithms Demos\01.Kruskals Algorithm\bin\Debug\01.Kruskals Algorithm.exe.config
+D:\SOFTUNI\Algorithms\Exercises\Advanced Graph Algorithms Demos\01.Kruskals Algorithm\bin\Debug\01.Kruskals Algorithm.exe
+D:\SOFTUNI\Algorithms\Exercises\Advanced Graph Algorithms Demos\01.Kruskals Algorithm\bin\Debug\01.Kruskals Algorithm.pdb
+D:\SOFTUNI\Algorithms\Exercises\Advanced Graph Algorithms Demos\01.Kruskals Algorithm\obj\Debug\01.Kruskals Algorithm.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Exercises\Advanced Graph Algorithms Demos\01.Kruskals Algorithm\obj\Debug\01.Kruskals Algorithm.exe
+D:\SOFTUNI\Algorithms\Exercises\Advanced Graph Algorithms Demos\01.Kruskals Algorithm\obj\Debug\01.Kruskals Algorithm.pdb

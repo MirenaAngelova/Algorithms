@@ -1,0 +1,5 @@
+D:\SOFTUNI\Algorithms\Homeworks\Homework Problem Solving\02.Rectangle Intersection\bin\Debug\02.Rectangle Intersection.exe.config
+D:\SOFTUNI\Algorithms\Homeworks\Homework Problem Solving\02.Rectangle Intersection\bin\Debug\02.Rectangle Intersection.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Problem Solving\02.Rectangle Intersection\bin\Debug\02.Rectangle Intersection.pdb
+D:\SOFTUNI\Algorithms\Homeworks\Homework Problem Solving\02.Rectangle Intersection\obj\Debug\02.Rectangle Intersection.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Problem Solving\02.Rectangle Intersection\obj\Debug\02.Rectangle Intersection.pdb

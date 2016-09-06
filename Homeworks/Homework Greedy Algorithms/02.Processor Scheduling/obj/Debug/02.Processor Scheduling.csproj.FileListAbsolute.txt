@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Homeworks\Homework Greedy Algorithms\02.Processor Scheduling\bin\Debug\02.Processor Scheduling.exe.config
+D:\SOFTUNI\Algorithms\Homeworks\Homework Greedy Algorithms\02.Processor Scheduling\bin\Debug\02.Processor Scheduling.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Greedy Algorithms\02.Processor Scheduling\bin\Debug\02.Processor Scheduling.pdb
+D:\SOFTUNI\Algorithms\Homeworks\Homework Greedy Algorithms\02.Processor Scheduling\obj\Debug\02.Processor Scheduling.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Homeworks\Homework Greedy Algorithms\02.Processor Scheduling\obj\Debug\02.Processor Scheduling.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Greedy Algorithms\02.Processor Scheduling\obj\Debug\02.Processor Scheduling.pdb

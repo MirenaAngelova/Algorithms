@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Homeworks\Homework Advanced Graph Algorithms\08.Supplement Graph to Make It Strongly-Connected\bin\Debug\08.Supplement Graph to Make It Strongly-Connected.exe.config
+D:\SOFTUNI\Algorithms\Homeworks\Homework Advanced Graph Algorithms\08.Supplement Graph to Make It Strongly-Connected\bin\Debug\08.Supplement Graph to Make It Strongly-Connected.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Advanced Graph Algorithms\08.Supplement Graph to Make It Strongly-Connected\bin\Debug\08.Supplement Graph to Make It Strongly-Connected.pdb
+D:\SOFTUNI\Algorithms\Homeworks\Homework Advanced Graph Algorithms\08.Supplement Graph to Make It Strongly-Connected\obj\Debug\08.Supplement Graph to Make It Strongly-Connected.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Homeworks\Homework Advanced Graph Algorithms\08.Supplement Graph to Make It Strongly-Connected\obj\Debug\08.Supplement Graph to Make It Strongly-Connected.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Advanced Graph Algorithms\08.Supplement Graph to Make It Strongly-Connected\obj\Debug\08.Supplement Graph to Make It Strongly-Connected.pdb

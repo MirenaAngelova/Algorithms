@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Exercises\Combinatorial-Algorithms Demos\07.Combinations-No-Repetitions\bin\Debug\07.Combinations-No-Repetitions.exe.config
+D:\SOFTUNI\Algorithms\Exercises\Combinatorial-Algorithms Demos\07.Combinations-No-Repetitions\bin\Debug\07.Combinations-No-Repetitions.exe
+D:\SOFTUNI\Algorithms\Exercises\Combinatorial-Algorithms Demos\07.Combinations-No-Repetitions\bin\Debug\07.Combinations-No-Repetitions.pdb
+D:\SOFTUNI\Algorithms\Exercises\Combinatorial-Algorithms Demos\07.Combinations-No-Repetitions\obj\Debug\07.Combinations-No-Repetitions.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Exercises\Combinatorial-Algorithms Demos\07.Combinations-No-Repetitions\obj\Debug\07.Combinations-No-Repetitions.exe
+D:\SOFTUNI\Algorithms\Exercises\Combinatorial-Algorithms Demos\07.Combinations-No-Repetitions\obj\Debug\07.Combinations-No-Repetitions.pdb

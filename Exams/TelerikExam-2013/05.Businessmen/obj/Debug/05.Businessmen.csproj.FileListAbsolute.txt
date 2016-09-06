@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2013\05.Businessmen\bin\Debug\05.Businessmen.exe.config
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2013\05.Businessmen\bin\Debug\05.Businessmen.exe
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2013\05.Businessmen\bin\Debug\05.Businessmen.pdb
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2013\05.Businessmen\obj\Debug\05.Businessmen.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2013\05.Businessmen\obj\Debug\05.Businessmen.exe
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2013\05.Businessmen\obj\Debug\05.Businessmen.pdb

@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Homeworks\Homework Exam Preparation\04.Line Inverter\bin\Debug\04.Line Inverter.exe.config
+D:\SOFTUNI\Algorithms\Homeworks\Homework Exam Preparation\04.Line Inverter\bin\Debug\04.Line Inverter.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Exam Preparation\04.Line Inverter\bin\Debug\04.Line Inverter.pdb
+D:\SOFTUNI\Algorithms\Homeworks\Homework Exam Preparation\04.Line Inverter\obj\Debug\04.Line Inverter.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Homeworks\Homework Exam Preparation\04.Line Inverter\obj\Debug\04.Line Inverter.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Exam Preparation\04.Line Inverter\obj\Debug\04.Line Inverter.pdb

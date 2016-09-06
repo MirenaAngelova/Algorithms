@@ -1,0 +1,8 @@
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2013\03.Supermarket Queue\bin\Debug\03.Supermarket Queue.exe.config
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2013\03.Supermarket Queue\bin\Debug\03.Supermarket Queue.exe
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2013\03.Supermarket Queue\bin\Debug\03.Supermarket Queue.pdb
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2013\03.Supermarket Queue\bin\Debug\SoftUni.Wintellect.PowerCollections.dll
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2013\03.Supermarket Queue\bin\Debug\SoftUni.Wintellect.PowerCollections.xml
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2013\03.Supermarket Queue\obj\Debug\03.Supermarket Queue.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2013\03.Supermarket Queue\obj\Debug\03.Supermarket Queue.exe
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2013\03.Supermarket Queue\obj\Debug\03.Supermarket Queue.pdb

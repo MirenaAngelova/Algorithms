@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2014\01.Portals\bin\Debug\01.Portals.exe.config
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2014\01.Portals\bin\Debug\01.Portals.exe
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2014\01.Portals\bin\Debug\01.Portals.pdb
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2014\01.Portals\obj\Debug\01.Portals.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2014\01.Portals\obj\Debug\01.Portals.exe
+D:\SOFTUNI\Algorithms\Exams\TelerikExam-2014\01.Portals\obj\Debug\01.Portals.pdb

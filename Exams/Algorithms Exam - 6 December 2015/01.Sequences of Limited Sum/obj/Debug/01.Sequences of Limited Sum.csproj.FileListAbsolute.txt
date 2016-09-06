@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Exams\Algorithms Exam - 6 December 2015\01.Sequences of Limited Sum\bin\Debug\01.Sequences of Limited Sum.exe.config
+D:\SOFTUNI\Algorithms\Exams\Algorithms Exam - 6 December 2015\01.Sequences of Limited Sum\bin\Debug\01.Sequences of Limited Sum.exe
+D:\SOFTUNI\Algorithms\Exams\Algorithms Exam - 6 December 2015\01.Sequences of Limited Sum\bin\Debug\01.Sequences of Limited Sum.pdb
+D:\SOFTUNI\Algorithms\Exams\Algorithms Exam - 6 December 2015\01.Sequences of Limited Sum\obj\Debug\01.Sequences of Limited Sum.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Exams\Algorithms Exam - 6 December 2015\01.Sequences of Limited Sum\obj\Debug\01.Sequences of Limited Sum.exe
+D:\SOFTUNI\Algorithms\Exams\Algorithms Exam - 6 December 2015\01.Sequences of Limited Sum\obj\Debug\01.Sequences of Limited Sum.pdb

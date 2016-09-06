@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Homeworks\Homework Sorting and Searching Algorithms\Sortable-Collection\bin\Debug\Sortable-Collection.exe.config
+D:\SOFTUNI\Algorithms\Homeworks\Homework Sorting and Searching Algorithms\Sortable-Collection\bin\Debug\Sortable-Collection.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Sorting and Searching Algorithms\Sortable-Collection\bin\Debug\Sortable-Collection.pdb
+D:\SOFTUNI\Algorithms\Homeworks\Homework Sorting and Searching Algorithms\Sortable-Collection\obj\Debug\Sortable-Collection.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Homeworks\Homework Sorting and Searching Algorithms\Sortable-Collection\obj\Debug\Sortable-Collection.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Sorting and Searching Algorithms\Sortable-Collection\obj\Debug\Sortable-Collection.pdb

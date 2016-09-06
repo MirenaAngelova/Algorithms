@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Homeworks\Homework Graph Algorithms\05.Break Cycles\bin\Debug\05.Break Cycles.exe.config
+D:\SOFTUNI\Algorithms\Homeworks\Homework Graph Algorithms\05.Break Cycles\bin\Debug\05.Break Cycles.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Graph Algorithms\05.Break Cycles\bin\Debug\05.Break Cycles.pdb
+D:\SOFTUNI\Algorithms\Homeworks\Homework Graph Algorithms\05.Break Cycles\obj\Debug\05.Break Cycles.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Homeworks\Homework Graph Algorithms\05.Break Cycles\obj\Debug\05.Break Cycles.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Graph Algorithms\05.Break Cycles\obj\Debug\05.Break Cycles.pdb

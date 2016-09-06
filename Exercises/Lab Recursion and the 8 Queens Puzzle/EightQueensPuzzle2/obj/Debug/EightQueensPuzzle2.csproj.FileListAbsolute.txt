@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Exercises\Lab Recursion and the 8 Queens Puzzle\EightQueensPuzzle2\bin\Debug\EightQueensPuzzle2.exe.config
+D:\SOFTUNI\Algorithms\Exercises\Lab Recursion and the 8 Queens Puzzle\EightQueensPuzzle2\bin\Debug\EightQueensPuzzle2.exe
+D:\SOFTUNI\Algorithms\Exercises\Lab Recursion and the 8 Queens Puzzle\EightQueensPuzzle2\bin\Debug\EightQueensPuzzle2.pdb
+D:\SOFTUNI\Algorithms\Exercises\Lab Recursion and the 8 Queens Puzzle\EightQueensPuzzle2\obj\Debug\EightQueensPuzzle2.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Exercises\Lab Recursion and the 8 Queens Puzzle\EightQueensPuzzle2\obj\Debug\EightQueensPuzzle2.exe
+D:\SOFTUNI\Algorithms\Exercises\Lab Recursion and the 8 Queens Puzzle\EightQueensPuzzle2\obj\Debug\EightQueensPuzzle2.pdb

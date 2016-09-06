@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Homeworks\Homework Combinatorial Algorithms\04.Generate Subsets of String Array\bin\Debug\04.Generate Subsets of String Array.exe.config
+D:\SOFTUNI\Algorithms\Homeworks\Homework Combinatorial Algorithms\04.Generate Subsets of String Array\bin\Debug\04.Generate Subsets of String Array.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Combinatorial Algorithms\04.Generate Subsets of String Array\bin\Debug\04.Generate Subsets of String Array.pdb
+D:\SOFTUNI\Algorithms\Homeworks\Homework Combinatorial Algorithms\04.Generate Subsets of String Array\obj\Debug\04.Generate Subsets of String Array.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Homeworks\Homework Combinatorial Algorithms\04.Generate Subsets of String Array\obj\Debug\04.Generate Subsets of String Array.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Combinatorial Algorithms\04.Generate Subsets of String Array\obj\Debug\04.Generate Subsets of String Array.pdb

@@ -1,0 +1,5 @@
+D:\SOFTUNI\Algorithms\Exercises\Recursion Demos\05.Generating 0-1 Vectors\bin\Debug\05.Generating 0-1 Vectors.exe.config
+D:\SOFTUNI\Algorithms\Exercises\Recursion Demos\05.Generating 0-1 Vectors\bin\Debug\05.Generating 0-1 Vectors.exe
+D:\SOFTUNI\Algorithms\Exercises\Recursion Demos\05.Generating 0-1 Vectors\bin\Debug\05.Generating 0-1 Vectors.pdb
+D:\SOFTUNI\Algorithms\Exercises\Recursion Demos\05.Generating 0-1 Vectors\obj\Debug\05.Generating 0-1 Vectors.exe
+D:\SOFTUNI\Algorithms\Exercises\Recursion Demos\05.Generating 0-1 Vectors\obj\Debug\05.Generating 0-1 Vectors.pdb

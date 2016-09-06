@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Homeworks\Homework Dynamic Programming\07.Connecting Cables\bin\Debug\07.Connecting Cables.exe.config
+D:\SOFTUNI\Algorithms\Homeworks\Homework Dynamic Programming\07.Connecting Cables\bin\Debug\07.Connecting Cables.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Dynamic Programming\07.Connecting Cables\bin\Debug\07.Connecting Cables.pdb
+D:\SOFTUNI\Algorithms\Homeworks\Homework Dynamic Programming\07.Connecting Cables\obj\Debug\07.Connecting Cables.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Homeworks\Homework Dynamic Programming\07.Connecting Cables\obj\Debug\07.Connecting Cables.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Dynamic Programming\07.Connecting Cables\obj\Debug\07.Connecting Cables.pdb

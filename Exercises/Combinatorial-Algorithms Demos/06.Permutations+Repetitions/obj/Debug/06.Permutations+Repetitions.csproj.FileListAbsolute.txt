@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Exercises\Combinatorial-Algorithms Demos\06.Permutations+Repetitions\bin\Debug\06.Permutations+Repetitions.exe.config
+D:\SOFTUNI\Algorithms\Exercises\Combinatorial-Algorithms Demos\06.Permutations+Repetitions\bin\Debug\06.Permutations+Repetitions.exe
+D:\SOFTUNI\Algorithms\Exercises\Combinatorial-Algorithms Demos\06.Permutations+Repetitions\bin\Debug\06.Permutations+Repetitions.pdb
+D:\SOFTUNI\Algorithms\Exercises\Combinatorial-Algorithms Demos\06.Permutations+Repetitions\obj\Debug\06.Permutations+Repetitions.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Exercises\Combinatorial-Algorithms Demos\06.Permutations+Repetitions\obj\Debug\06.Permutations+Repetitions.exe
+D:\SOFTUNI\Algorithms\Exercises\Combinatorial-Algorithms Demos\06.Permutations+Repetitions\obj\Debug\06.Permutations+Repetitions.pdb

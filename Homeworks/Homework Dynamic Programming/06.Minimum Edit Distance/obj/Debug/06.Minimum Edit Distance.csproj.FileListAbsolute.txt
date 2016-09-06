@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Homeworks\Homework Dynamic Programming\06.Minimum Edit Distance\bin\Debug\06.Minimum Edit Distance.exe.config
+D:\SOFTUNI\Algorithms\Homeworks\Homework Dynamic Programming\06.Minimum Edit Distance\bin\Debug\06.Minimum Edit Distance.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Dynamic Programming\06.Minimum Edit Distance\bin\Debug\06.Minimum Edit Distance.pdb
+D:\SOFTUNI\Algorithms\Homeworks\Homework Dynamic Programming\06.Minimum Edit Distance\obj\Debug\06.Minimum Edit Distance.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Homeworks\Homework Dynamic Programming\06.Minimum Edit Distance\obj\Debug\06.Minimum Edit Distance.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Dynamic Programming\06.Minimum Edit Distance\obj\Debug\06.Minimum Edit Distance.pdb

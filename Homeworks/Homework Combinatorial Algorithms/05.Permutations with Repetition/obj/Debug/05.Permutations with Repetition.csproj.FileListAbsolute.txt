@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Homeworks\Homework Combinatorial Algorithms\05.Permutations with Repetition\bin\Debug\05.Permutations with Repetition.exe.config
+D:\SOFTUNI\Algorithms\Homeworks\Homework Combinatorial Algorithms\05.Permutations with Repetition\bin\Debug\05.Permutations with Repetition.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Combinatorial Algorithms\05.Permutations with Repetition\bin\Debug\05.Permutations with Repetition.pdb
+D:\SOFTUNI\Algorithms\Homeworks\Homework Combinatorial Algorithms\05.Permutations with Repetition\obj\Debug\05.Permutations with Repetition.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Homeworks\Homework Combinatorial Algorithms\05.Permutations with Repetition\obj\Debug\05.Permutations with Repetition.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Combinatorial Algorithms\05.Permutations with Repetition\obj\Debug\05.Permutations with Repetition.pdb

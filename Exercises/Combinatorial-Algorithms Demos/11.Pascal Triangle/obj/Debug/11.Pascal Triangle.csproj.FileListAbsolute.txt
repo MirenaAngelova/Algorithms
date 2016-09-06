@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Exercises\Combinatorial-Algorithms Demos\11.Pascal Triangle\bin\Debug\11.Pascal Triangle.exe.config
+D:\SOFTUNI\Algorithms\Exercises\Combinatorial-Algorithms Demos\11.Pascal Triangle\bin\Debug\11.Pascal Triangle.exe
+D:\SOFTUNI\Algorithms\Exercises\Combinatorial-Algorithms Demos\11.Pascal Triangle\bin\Debug\11.Pascal Triangle.pdb
+D:\SOFTUNI\Algorithms\Exercises\Combinatorial-Algorithms Demos\11.Pascal Triangle\obj\Debug\11.Pascal Triangle.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Exercises\Combinatorial-Algorithms Demos\11.Pascal Triangle\obj\Debug\11.Pascal Triangle.exe
+D:\SOFTUNI\Algorithms\Exercises\Combinatorial-Algorithms Demos\11.Pascal Triangle\obj\Debug\11.Pascal Triangle.pdb

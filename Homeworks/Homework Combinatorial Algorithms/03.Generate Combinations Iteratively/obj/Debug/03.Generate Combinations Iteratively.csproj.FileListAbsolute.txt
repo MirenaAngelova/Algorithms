@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Homeworks\Homework Combinatorial Algorithms\03.Generate Combinations Iteratively\bin\Debug\03.Generate Combinations Iteratively.exe.config
+D:\SOFTUNI\Algorithms\Homeworks\Homework Combinatorial Algorithms\03.Generate Combinations Iteratively\bin\Debug\03.Generate Combinations Iteratively.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Combinatorial Algorithms\03.Generate Combinations Iteratively\bin\Debug\03.Generate Combinations Iteratively.pdb
+D:\SOFTUNI\Algorithms\Homeworks\Homework Combinatorial Algorithms\03.Generate Combinations Iteratively\obj\Debug\03.Generate Combinations Iteratively.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Homeworks\Homework Combinatorial Algorithms\03.Generate Combinations Iteratively\obj\Debug\03.Generate Combinations Iteratively.exe
+D:\SOFTUNI\Algorithms\Homeworks\Homework Combinatorial Algorithms\03.Generate Combinations Iteratively\obj\Debug\03.Generate Combinations Iteratively.pdb

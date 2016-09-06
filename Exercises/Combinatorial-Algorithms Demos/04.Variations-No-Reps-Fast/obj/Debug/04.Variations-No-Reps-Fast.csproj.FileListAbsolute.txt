@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Exercises\Combinatorial-Algorithms Demos\04.Variations-No-Reps-Fast\bin\Debug\04.Variations-No-Reps-Fast.exe.config
+D:\SOFTUNI\Algorithms\Exercises\Combinatorial-Algorithms Demos\04.Variations-No-Reps-Fast\bin\Debug\04.Variations-No-Reps-Fast.exe
+D:\SOFTUNI\Algorithms\Exercises\Combinatorial-Algorithms Demos\04.Variations-No-Reps-Fast\bin\Debug\04.Variations-No-Reps-Fast.pdb
+D:\SOFTUNI\Algorithms\Exercises\Combinatorial-Algorithms Demos\04.Variations-No-Reps-Fast\obj\Debug\04.Variations-No-Reps-Fast.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Exercises\Combinatorial-Algorithms Demos\04.Variations-No-Reps-Fast\obj\Debug\04.Variations-No-Reps-Fast.exe
+D:\SOFTUNI\Algorithms\Exercises\Combinatorial-Algorithms Demos\04.Variations-No-Reps-Fast\obj\Debug\04.Variations-No-Reps-Fast.pdb
